@@ -20,12 +20,12 @@ Chương trình áp dụng các quy tắc sau để phân loại học lực:
 
 | Phân loại Học lực | Điều kiện Điểm số (Điểm $x$) |
 | :---------------- | :---------------------------- |
-| **Xuất sắc** | $x \geq 9$                    |
+| **Xuất sắc** | $10 \geq x \geq 9$                    |
 | **Giỏi** | $9 > x \geq 8$                |
 | **Khá** | $8 > x \geq 6.5$              |
 | **Trung bình** | $6.5 > x \geq 5$              |
 | **Yếu** | $5 > x \geq 3.5$              |
-| **Kém** | $3.5 > x$                     |
+| **Kém** | $3.5 > x \geq 0$                   |
 
 ---
 
